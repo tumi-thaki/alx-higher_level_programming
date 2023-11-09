@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Author - Tumi Thaki 
+# Author - Tumi Thaki
 
 def multiply_by_2(a_dictionary):
     """Return a new dictionary with all values multipled by 2."""
