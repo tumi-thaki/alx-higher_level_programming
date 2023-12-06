@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-# Author - Tumi Thak
-i
+# Author - Tumi Thaki
+
 """Defines a Python class-to-JSON function."""
 
 
